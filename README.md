@@ -1,8 +1,7 @@
 
 
 # GroupManager
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]
+[Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
